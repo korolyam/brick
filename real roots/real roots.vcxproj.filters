@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="brick.cpp">
+    <ClCompile Include="real roots.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

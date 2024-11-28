@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{21a577cf-1220-4ebd-a1b3-dd2c067fde14}</ProjectGuid>
-    <RootNamespace>brick</RootNamespace>
+    <ProjectGuid>{c1be6331-9b3c-446a-9408-59c3eabfcaff}</ProjectGuid>
+    <RootNamespace>realroots</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="brick.cpp" />
+    <ClCompile Include="real roots.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,6 @@
+﻿  Convert bits.cpp
+D:\LabWorks\++\brick\Convert bits\Convert bits.cpp(27,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\LabWorks\++\brick\Convert bits\Convert bits.cpp(30,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\LabWorks\++\brick\Convert bits\Convert bits.cpp(33,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\LabWorks\++\brick\Convert bits\Convert bits.cpp(36,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Convert bits.vcxproj -> D:\LabWorks\++\brick\x64\Debug\Convert bits.exe

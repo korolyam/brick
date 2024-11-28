@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{21a577cf-1220-4ebd-a1b3-dd2c067fde14}</ProjectGuid>
-    <RootNamespace>brick</RootNamespace>
+    <ProjectGuid>{4018a218-87ec-4d65-856f-304219d30993}</ProjectGuid>
+    <RootNamespace>Leapyears</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="brick.cpp" />
+    <ClCompile Include="Leap years.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
