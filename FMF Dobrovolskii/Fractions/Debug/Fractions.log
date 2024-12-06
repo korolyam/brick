@@ -1,0 +1,19 @@
+﻿  Fractions.cpp
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(9,12): error C2062: тип "int" не требуется
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(11,22): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(12,13): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(14,9): error C2065: temp: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(15,13): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(16,9): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(16,13): error C2065: temp: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(19,18): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(21,27): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(23,21): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(24,42): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(24,63): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(24,89): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(27,27): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(29,21): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(30,26): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(30,59): error C2065: y: необъявленный идентификатор
+D:\work\Dobr\c++\FMF Dobrovolskii\Fractions\Fractions.cpp(30,77): error C2065: y: необъявленный идентификатор
