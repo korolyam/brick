@@ -1,0 +1,4 @@
+﻿  3.11.cpp
+  The contents of <ranges> are available only with C++20 or later.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\work\++(3)\3.10\x64\Debug\3.11.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
